@@ -1,8 +1,7 @@
 body {
       background-color:#32263c;
-      font-family : Chaparral;
      }
- 
+
 h1 {
     font-size: 100; 
     color: white; 
@@ -11,6 +10,7 @@ h1 {
  
 h2 {
     font-size: 35; 
+    font-family : "Impact";
     color: white; 
     text-align: center;
  }
