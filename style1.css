@@ -1,25 +1,25 @@
 body {
-      background-color:#272822;
+      background-color:#32263c;
       font-family : Chaparral;
      }
  
 h1 {
     font-size: 100; 
-    color: #8f908a; 
+    color: white; 
     text-align: center;
  }
  
 h2 {
     font-size: 35; 
-    color: #f8f8f2; 
+    color: white; 
     text-align: center;
  }
 a {
     font-size: 25; 
-    color: white; 
-    border: 5px #ae81ff solid;
+    color: #32263c; 
+    border: 5px #c7e2b4 solid;
     border-radius: 5px;
-    background-color:#ae81ff;
+    background-color:#ac7e2b4;
  }
  table {
          text-align: center;
