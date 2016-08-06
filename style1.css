@@ -3,28 +3,46 @@ body {
      }
 
 h1 {
-    font-size: 100; 
-    color: white; 
+    font-size: 100;
+    color: white;
     text-align: center;
  }
- 
+
 h2 {
-    font-size: 35; 
+    font-size: 35;
     font-family : "Impact";
-    color: white; 
+    color: white;
     text-align: center;
  }
 b {
-    font-size: 25; 
-    color: #32263c; 
+    font-size: 25;
+    color: #32263c;
     border: 5px #c7e2b4 solid;
     border-radius: 5px;
     background-color:#c7e2b4;
  }
  table {
          text-align: center;
+         color : white;
+         border-style: outset;
+         border-width:3px;
+         border-color:#514659;
+         width: 75%;
+         border-radius: 15px;
+         background-color: #2a2033;
  }
- 
+ td {
+         text-align: center;
+         color : white;
+         border-style: outset;
+         border-width:1px;
+         border-color:#514659;
+         border-radius: 10px;
+         background-color: #32263c;
+
+ }
+
+
 a.no-decoration {
   text-decoration: none;
 }
