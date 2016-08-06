@@ -21,6 +21,16 @@ b {
     border-radius: 5px;
     background-color:#c7e2b4;
  }
+ tableb {
+         text-align: center;
+         color : white;
+         border-style: outset;
+         border-width:3px;
+         border-color:#514659;
+         width: 75%;
+         border-radius: 15px;
+         background-color: #2a2033;
+ }
  table {
          text-align: center;
          color : white;
